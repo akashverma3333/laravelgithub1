@@ -1,0 +1,3 @@
+[submodule "packages/laravelgithubapis"]
+	path = packages/laravelgithubapis
+	url = https://github.com/akashverma3333/laravelgithub1.git
