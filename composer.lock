@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5a88b37b89b1e73183ae97c5902915d",
+    "content-hash": "06cfafdc2c0eda9464e17c7670112d00",
     "packages": [
         {
             "name": "akashverma3333/laravelgithubapis",
