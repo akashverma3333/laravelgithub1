@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "packages/laravelgithubapis",
-                "reference": "764a2556bb84db087b10c617ad10e3a7ca3f7cbc"
+                "reference": "51b328905ae7dccc9b4c8e9b1f7f354de5d3bb27"
             },
             "require": {
                 "guzzlehttp/guzzle": "^7.0"
