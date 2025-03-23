@@ -51,7 +51,7 @@ Saved GitHub Commands:
     php artisan show-git-help
 
     THESE COMMANDS ARE CREATED WITH THE HELP OF GITHUB API. 
-    YOU CAN USE THESE COMMANDS LIKE NORMAL GIT COMMANDS.
+    
 EOT;
 
         $this->info($helpText);
