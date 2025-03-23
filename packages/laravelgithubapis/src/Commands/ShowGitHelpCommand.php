@@ -47,10 +47,11 @@ Saved GitHub Commands:
 10. Create a Pull Request:
     php artisan github:create-pull-request
 
-11. command to Show git help:
+11. Show git help:
     php artisan show-git-help
 
-    THESE COMMANDS ARE CREATED WITH THE HELP OF GITHUB API.
+    THESE COMMANDS ARE CREATED WITH THE HELP OF GITHUB API. 
+    YOU CAN USE THESE COMMANDS LIKE NORMAL GIT COMMANDS.
 EOT;
 
         $this->info($helpText);
